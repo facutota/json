@@ -4,7 +4,7 @@
         "id": 1,
         "image": "https://icdn4.digitaltrends.com/image/digitaltrends_es/ups-tusimple-768x576.jpg",
         "name": "Leanne Graham",
-        "usernam": "Bret",
+        "username": "Bret",
         "email": "Sincere@april.biz"
       },
       {
@@ -15,12 +15,12 @@
         "email": "Shanna@melissa.tv"
       },  
       {
-        "id": 3,    
-        "name": "Clementine Bauch",
-        "image": "https://source.unsplash.com/gThfDnqgfMw/800x600",
+        "id": 3,   
+        "image": "https://source.unsplash.com/gThfDnqgfMw/800x600", 
+        "name": "Clementine Bauch",        
         "username": "Samantha",
         "email": "Nathan@yesenia.net",
-        "image": "https://source.unsplash.com/gThfDnqgfMw/800x600"
+        
       },
       {
         "id": 4,
