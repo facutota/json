@@ -7,7 +7,7 @@
     email: 'Sincere@april.biz'
   },
   {
-   
+    id: 2,
     image: 'https://source.unsplash.com/k3IogSsONd4/800x600',
     name: 'Ervin Howell',
     username: 'Antonette',
